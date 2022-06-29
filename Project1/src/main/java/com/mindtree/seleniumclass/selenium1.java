@@ -16,7 +16,7 @@ public class selenium1 {
 		Thread.sleep(3000);
 		driver.findElement(By.xpath("//input[@class='gNO89b']")).click();
 		
-		// adding a comment for selenium
+		// adding a comment for github test
 	}
 
 }
