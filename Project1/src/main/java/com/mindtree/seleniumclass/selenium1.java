@@ -15,6 +15,8 @@ public class selenium1 {
 		driver.findElement(By.xpath("//input[@class='gLFyf gsfi']")).sendKeys("aurora");
 		Thread.sleep(3000);
 		driver.findElement(By.xpath("//input[@class='gNO89b']")).click();
+		
+		// adding a comment for selenium
 	}
 
 }
